@@ -1,0 +1,34 @@
+
+/** PAGE DE CONTACT **/
+
+
+  hr {
+    height: 1px;
+    border: 0; border-top: 1px solid #ccc;
+  }
+
+  h2 {
+    
+    font-weight: bold;
+    
+  }
+
+  h4 {
+    font-weight: bold;
+  }
+
+  .formLogo {
+    max-width: 100%;
+
+  }
+
+
+
+.contactBox {
+  margin-top: 50px;
+  border: solid 1px black;
+  border-radius: 20px;
+  background-color: #5A5A5A ;
+  padding: 20px;
+}
+
